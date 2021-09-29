@@ -1,25 +1,20 @@
-<h1 align="center">Hello 👋, I'm Kasem</h1>
-<h3 align="center">Passionate about Native Android, Kotlin, Jetpack Compose & Django as well.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasem-sm&label=Profile%20views&color=0e75b6&style=flat" alt="kasem-sm" /> </p>
+<h1>Hello 👋, I'm Kasem</h1>
+<h6>Passionate about Native Android, Kotlin, Jetpack Compose & Django as well.</h6>
 
 - 🔭 I’m currently working on [TruePicks](https://play.google.com/store/apps/details?id=fusion.royale)
 
-- 🌱 I’m currently learning **Jetpack Compose, SqlDelight and many exciting stuffs.**
+- 🌱 I’m currently learning **Jetpack Compose and many exciting stuffs.**
 
 - 👯 I’m looking to collaborate on [RocketXDelight-Playground](https://github.com/kasem-sm/RocketXDelight-Playground)
 
-- 📝 I write articles on [https://medium.com/@kasem.](https://medium.com/@kasem.)
+- 📝 I write articles at [https://medium.com/@kasem.](https://medium.com/@kasem.)
 
 - 💬 Ask me about **Android Development, Kotlin 💜**
 
-- 📫 How to reach me **kasemsm69@gmail.com**
+- 📫 Reach me **kasemsm69@gmail.com**
 
 - ⚡ Fun fact **I wanted to be an animator 😂**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
