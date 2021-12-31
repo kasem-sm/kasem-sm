@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [RocketXDelight-Playground](https://github.com/kasem-sm/RocketXDelight-Playground)
 
-- 📝 I write articles at [https://medium.com/@kasem.](https://medium.com/@kasem.sm)
+- 📝 I write articles at [https://medium.com/@kasem.sm](https://medium.com/@kasem.sm)
 
 - 💬 Ask me about **Android Development, Kotlin 💜**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kasemsm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasemsm_" height="30" width="40" /></a>
-<a href="https://medium.com/@kasem." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kasem." height="30" width="40" /></a>
+<a href="https://medium.com/@kasem.sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kasem.sm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
