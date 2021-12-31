@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [RocketXDelight-Playground](https://github.com/kasem-sm/RocketXDelight-Playground)
 
-- 📝 I write articles at [https://medium.com/@kasem.](https://medium.com/@kasem.)
+- 📝 I write articles at [https://medium.com/@kasem.](https://medium.com/@kasem.sm)
 
 - 💬 Ask me about **Android Development, Kotlin 💜**
 
