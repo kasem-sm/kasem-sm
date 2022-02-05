@@ -3,6 +3,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kasem-sm&count_private=true&theme=dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=kasem-sm)
 
 -  Currently working on [TruePicks](https://play.google.com/store/apps/details?id=fusion.royale)
 
