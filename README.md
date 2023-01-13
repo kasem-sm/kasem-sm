@@ -1,8 +1,9 @@
 <h1>Hello 👋, I'm Kasem</h1>
 <h6>Passionate about Native Android, Kotlin, Jetpack Compose & Django as well.</h6>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kasem-sm&count_private=true&theme=dark)
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kasem-sm&count_private=true&theme=dark)
+ -->
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=kasem-sm)
 
 -  Currently working on [TruePicks](https://play.google.com/store/apps/details?id=fusion.royale)
