@@ -1,4 +1,4 @@
-<h1>Hello 👋, I'm Kasem</h1>
+<h1>Hello 👋</h1>
 <h6>Passionate about Native Android, Kotlin, Jetpack Compose & Django as well.</h6>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kasem-sm&count_private=true&theme=dark)
@@ -6,13 +6,13 @@
  
 ![Profile Views](https://komarev.com/ghpvc/?username=kasem-sm)
 
--  Currently working on [TruePicks](https://play.google.com/store/apps/details?id=fusion.royale)
+<!-- -  Currently working on [TruePicks](https://play.google.com/store/apps/details?id=fusion.royale) -->
 
 - Read my articles at [Medium](https://medium.com/@kasem.sm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kasemsm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasemsm_" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/kasemsm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasemsm_" height="30" width="40" /></a> -->
 <a href="https://medium.com/@kasem.sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kasem.sm" height="30" width="40" /></a>
 </p>
 
